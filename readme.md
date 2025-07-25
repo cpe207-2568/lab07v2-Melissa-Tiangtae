@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : เมลิสสา เที่ยงเเท้
 
-GitHub Page URL : http://127.0.0.1:5500/index.html
+GitHub Page URL : [http://127.0.0.1:5500/index.html](https://cpe207-2568.github.io/lab07v2-Melissa-Tiangtae/)
 
 ---
 
